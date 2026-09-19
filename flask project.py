@@ -1,3 +1,3 @@
 from turtle import Turtle
 
-tut = 
+tut = 2
